@@ -36,3 +36,6 @@ This project creates a local, privacy-friendly chatbot that can answer questions
    Open your terminal and run:
    ```bash
    ollama run mistral
+3. Run app.py
+4. 
+   ```streamlit run app.py
