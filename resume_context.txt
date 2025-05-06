@@ -1,0 +1,43 @@
+My name is Nikhila Joshy. I live in Mannheim, Germany. I am a software developer with experience in machine learning and generative AI.
+
+I currently work at AddoptIO in Heilbronn, Germany (Jan 2025 – Present), where I:
+- Automated threat data extraction from NVD and vendor sources using OpenAI and Mistral, improving coverage by 80%.
+- Mapped 100+ IT assets to vulnerabilities using graph-based Neo4j structures for real-time risk visibility.
+- Deployed a threat mapping pipeline with Google Cloud Functions.
+
+I completed my master thesis at ABB in Mannheim (Dec 2023 – Aug 2024):
+- Built a multimodal ML model for time series captioning, improving performance 2.96x over existing models.
+- Improved the model using pretraining strategies (+8.53% gain).
+- Used Label Studio for data collection and user evaluation.
+
+Previously, I interned at eschbach GmbH (Mar 2023 – Jul 2023):
+- Fine-tuned LLMs for NLP in the chemical industry, improving sentence splitter accuracy by 30% and reducing inference time by 35%.
+- Used Power BI for ML model evaluation and built a semantic search model in a vector database.
+- Developed a validation pipeline using Azure.
+
+Other experience includes:
+- Student Research Assistant at University of Konstanz (Dec 2021 – Jul 2022): Collected data via web scraping for web search bias audits.
+- Programmer Analyst Trainee at Cognizant (Sep 2020 – Aug 2021): Modeled automotive domain requirements, implemented OTA features in C, and wrote unit tests.
+
+Education:
+- MSc. Computer and Information Science, University of Konstanz (Grade: 1.5, Oct 2021 – Oct 2024).
+- B.Tech (Hons.) in Computer Science and Engineering, RSET (CGPA: 1.4, Aug 2016 – Jul 2020).
+
+Skills:
+Languages: Python, C, Java, SQL, SPARQL, MATLAB  
+ML Tools: PyTorch, TensorFlow, Keras, Sklearn, Mlflow, Weights & Biases  
+Platforms: Azure, Google Cloud, Kubernetes, Docker, GitHub, GitLab  
+Visualization: Power BI, Tableau  
+Other Tools: Postman, Swagger, DWT, neo4j, Weaviate, IBM Rhapsody, LangChain  
+Soft Skills: Leadership, Adaptability, Problem Solving, Analytical Thinking, Multitasking, Presentation Skills
+
+Projects:
+- Time Series Captioning with Multimodal ML (PyTorch + HuggingFace)
+- Negation Handling in Language Models (SHAP, LIME)
+- COVID-19 Dashboard using Tableau
+- Biometric Watermarking using MATLAB
+
+Languages: English (C1), Malayalam, Hindi, German (B1)  
+Certifications: IBM Data Science Professional Certificate (Coursera)
+
+Contact: nikhilaajoshy@gmail.com | linkedin.com/in/nikhila-joshy  
