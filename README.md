@@ -37,5 +37,6 @@ This project creates a local, privacy-friendly chatbot that can answer questions
    ```bash
    ollama run mistral
 3. Run app.py
-4. 
-   ```streamlit run app.py
+   
+   ```bash
+   streamlit run app.py
